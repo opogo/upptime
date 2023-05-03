@@ -9,6 +9,8 @@ sites:
     url: https://api.opogo.com
   - name: CMS
     url: https://cms.opogo.com
+  - name: App
+    url: https://app.opogo.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
