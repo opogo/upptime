@@ -4,19 +4,19 @@
     "url": "https://www.opogo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.opogo.com.ico",
     "slug": "opogo-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 7681,
-    "timeWeek": 2033,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 674,
+    "timeDay": 5276,
+    "timeWeek": 1859,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-06-02": 0
+      "2023-06-02": 23
     }
   },
   {
