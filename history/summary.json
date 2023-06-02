@@ -4,18 +4,20 @@
     "url": "https://www.opogo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.opogo.com.ico",
     "slug": "opogo-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 216,
-    "timeWeek": 160,
-    "timeMonth": 242,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 680,
+    "timeDay": 7681,
+    "timeWeek": 2033,
+    "timeMonth": 680,
+    "timeYear": 680,
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   },
   {
     "name": "API",
