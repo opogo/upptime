@@ -4,18 +4,19 @@
     "url": "https://www.opogo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.opogo.com.ico",
     "slug": "opogo-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 353,
-    "timeDay": 461,
-    "timeWeek": 491,
-    "timeMonth": 426,
-    "timeYear": 353,
+    "time": 355,
+    "timeDay": 527,
+    "timeWeek": 512,
+    "timeMonth": 436,
+    "timeYear": 355,
     "dailyMinutesDown": {
+      "2023-10-26": 0,
       "2023-10-04": 25,
       "2023-06-02": 23
     }
@@ -32,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 811,
-    "timeDay": 895,
-    "timeWeek": 903,
-    "timeMonth": 862,
+    "timeDay": 857,
+    "timeWeek": 876,
+    "timeMonth": 854,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2023-06-28": 33
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 616,
-    "timeDay": 644,
-    "timeWeek": 646,
-    "timeMonth": 686,
-    "timeYear": 616,
+    "time": 617,
+    "timeDay": 653,
+    "timeWeek": 632,
+    "timeMonth": 679,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2023-06-28": 33
     }
@@ -72,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 486,
-    "timeDay": 524,
-    "timeWeek": 516,
-    "timeMonth": 491,
+    "timeDay": 471,
+    "timeWeek": 489,
+    "timeMonth": 485,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2023-06-28": 33
