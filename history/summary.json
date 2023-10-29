@@ -6,17 +6,16 @@
     "slug": "opogo-site",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 358,
-    "timeDay": 417,
+    "time": 359,
+    "timeDay": 428,
     "timeWeek": 502,
-    "timeMonth": 444,
-    "timeYear": 358,
+    "timeMonth": 456,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2023-10-28": 15,
       "2023-10-04": 25,
       "2023-06-02": 23
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 811,
-    "timeDay": 810,
-    "timeWeek": 869,
-    "timeMonth": 849,
+    "timeDay": 839,
+    "timeWeek": 864,
+    "timeMonth": 856,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2023-06-28": 33
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 617,
-    "timeDay": 616,
-    "timeWeek": 634,
+    "time": 616,
+    "timeDay": 569,
+    "timeWeek": 627,
     "timeMonth": 672,
-    "timeYear": 617,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2023-06-28": 33
     }
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 486,
-    "timeDay": 463,
-    "timeWeek": 488,
-    "timeMonth": 481,
+    "timeDay": 453,
+    "timeWeek": 482,
+    "timeMonth": 483,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2023-06-28": 33
