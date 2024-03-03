@@ -1,7 +1,7 @@
 url: https://api.opogo.com
-status: down
-code: 500
-responseTime: 776
-lastUpdated: 2024-03-03T16:55:27.847Z
+status: up
+code: 200
+responseTime: 731
+lastUpdated: 2024-03-03T17:12:02.643Z
 startTime: 2023-05-03T12:38:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
