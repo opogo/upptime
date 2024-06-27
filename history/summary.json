@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 292,
-    "timeDay": 204,
-    "timeWeek": 200,
-    "timeMonth": 165,
+    "timeDay": 392,
+    "timeWeek": 223,
+    "timeMonth": 173,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-04-04": 63,
@@ -35,14 +35,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 820,
-    "timeDay": 1128,
-    "timeWeek": 912,
-    "timeMonth": 832,
-    "timeYear": 824,
+    "time": 821,
+    "timeDay": 1162,
+    "timeWeek": 967,
+    "timeMonth": 849,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2024-03-03": 73,
-      "2023-06-28": 33
+      "2024-03-03": 73
     }
   },
   {
@@ -57,13 +56,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 629,
-    "timeDay": 801,
-    "timeWeek": 679,
-    "timeMonth": 605,
-    "timeYear": 634,
-    "dailyMinutesDown": {
-      "2023-06-28": 33
-    }
+    "timeDay": 843,
+    "timeWeek": 709,
+    "timeMonth": 615,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -77,12 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 822,
-    "timeWeek": 654,
-    "timeMonth": 584,
-    "timeYear": 550,
-    "dailyMinutesDown": {
-      "2023-06-28": 33
-    }
+    "timeDay": 710,
+    "timeWeek": 685,
+    "timeMonth": 590,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   }
 ]
