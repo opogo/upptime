@@ -49,19 +49,19 @@
     "url": "https://cms.opogo.com",
     "icon": "https://icons.duckduckgo.com/ip3/cms.opogo.com.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 1629,
-    "timeWeek": 841,
-    "timeMonth": 697,
-    "timeYear": 643,
+    "timeDay": 1244,
+    "timeWeek": 801,
+    "timeMonth": 690,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 23
     }
   },
   {
