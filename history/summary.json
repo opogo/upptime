@@ -29,18 +29,19 @@
     "url": "https://api.opogo.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.opogo.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 842,
+    "time": 841,
     "timeDay": 9530,
     "timeWeek": 2199,
     "timeMonth": 1147,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2024-09-02": 0,
       "2024-03-03": 73
     }
   },
